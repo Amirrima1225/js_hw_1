@@ -29,6 +29,7 @@ let total = 0
 
 products.forEach(product => {
     let salePrice = 30 * product.price - (30 * product.price / 100)
-    
+    // hello world
+
 })
 
